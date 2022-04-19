@@ -65,7 +65,7 @@ def banner():
                   ########:: ########:::. ###::::'####: ########:
                   ........:::........:::::...:::::....::........::
                                            
-                      BEST FACEBOOK HACKING TOOL🇳🇬🇳🇬
+                          BEST FACEBOOK HACKING TOOL🇳🇬🇳🇬
 """%(h))
 
 # VALIDASI TOKEN
